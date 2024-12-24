@@ -4,7 +4,7 @@ Hi 👋 My name is Whitzscott
 A Frontend and Backend Web Developer specializing in HTML and CSS. Currently a first-year IT student in college.
 ----------------------------------------------------------------------------------------------------------------
 
-🌟 A 17-Year-Old Full-Stack Web Developer 🌟 🎓 First-Year IT Student | 🌐 Skills: HTML, CSS, Small Basic 🚀 Currently Learning: Node.js, React, Kotlin, JavaScript, C#, and C++ ❤️ I love TypeScript, CSS, and HTML! With a passion for creating dynamic and visually appealing web designs, I specialize in both frontend and backend development to bring interactive projects to life xD
+🌟 A 17-Year-Old Full-Stack Web Developer 🌟 🎓 First-Year IT Student | 🌐 Skills: HTML, CSS, Small Basic 🚀 Currently Learning: Node.js, React, Kotlin, JavaScript, C#, and C++ ❤️ I love JavaScript, CSS, and HTML! With a passion for creating dynamic and visually appealing web designs, I specialize in both frontend and backend development to bring interactive projects to life xD
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [https://portfolio-paok.onrender.com](http://https://portfolio-paok.onrender.com)
