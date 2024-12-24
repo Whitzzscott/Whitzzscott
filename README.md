@@ -8,7 +8,6 @@ A Frontend and Backend Web Developer specializing in HTML and CSS. Currently a f
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [https://portfolio-paok.onrender.com](http://https://portfolio-paok.onrender.com)
-* 🧠  I'm learning JS, C#, C++
 * 🤝  I'm open to collaborating on Fun Project. Challenge
 
 <a href="https://www.github.com/Whitzzscott" target="_blank" rel="noreferrer"><img
