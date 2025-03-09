@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On: Pandamonium AI<br>🐳 Currently Learning:<br>- Python for AI-related tasks:<br>- Fine-tuning models<br>- Running large language models (LLMs)<br>- Optimization<br>- Using Python for backend development<br><br>📍 Based In: Philippines
+🔭 Currently Working On: Pyrenz AI<br>🐳 Currently Learning:<br>- Python for AI-related tasks:<br>- Fine-tuning models<br>- Running large language models (LLMs)<br>- Optimization<br>- Using Python for backend development<br><br>📍 Based In: Philippines
 
 
 # 💻 Tech Stack:
