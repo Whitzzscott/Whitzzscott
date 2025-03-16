@@ -15,25 +15,7 @@
 
 ## 🚀 Tech Stack  
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />  
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />  
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />  
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />  
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />  
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />  
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />  
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />  
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />  
-  <img src="https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&badgeColor=010101" />  
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />  
-  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=flat&logo=render&logoColor=white" />  
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />  
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />  
-</p>  
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></a> <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a> <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" /></a> <a href="#"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" /></a> <a href="#"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&badgeColor=010101" /></a> <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" /></a> <a href="#"><img src="https://img.shields.io/badge/render-%46E3B7.svg?style=flat&logo=render&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" /></a> <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" /></a> </p>
 
 ---
 
