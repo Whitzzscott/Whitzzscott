@@ -1,25 +1,65 @@
-# 💫 About Me:
-🔭 Currently Working On: Pyrenz AI<br>🐳 Currently Learning:<br>- Python for AI-related tasks:<br>- Fine-tuning models<br>- Running large language models (LLMs)<br>- Optimization<br>- Using Python for backend development<br><br>📍 Based In: Philippines
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Whitzzscott&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Whitzzscott&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitzzscott&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Whitzzscott</h1>  
+<h3 align="center">I'm a full-stack developer from the Philippines. I love discovering new technologies and experimenting with them, especially LLMs.  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+💡 **Fun fact:** Did you know that LLMs can generate code, compose music, and even write poetry that mimics famous authors? Some models have even passed law and medical exams!</h3>  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Whitzzscott&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whitzzscott&label=Profile%20views&color=0e75b6&style=flat" alt="whitzzscott" /> </p>  
+
+- 🔭 I’m currently working on **Pyrenz AI**  
+- 💬 Ask me about **React, LLMs, and full-stack development**  
+- 📫 How to reach me: **whitzscott@gmail.com**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Whitzzscott&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/whitzscott) 
+## 🚀 Tech Stack  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">  
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />  
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />  
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />  
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />  
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />  
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />  
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />  
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />  
+  <img src="https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&badgeColor=010101" />  
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />  
+  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=flat&logo=render&logoColor=white" />  
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />  
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />  
+</p>  
+
+---
+
+## 🔗 Connect with Me  
+<p align="left">  
+<a href="mailto:whitzscott@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>  
+<a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>  
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whitzzscott&show_icons=true&locale=en&layout=compact" alt="whitzzscott" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitzzscott&" alt="whitzzscott" />  
+</p>  
+
+---
+
+## ☕ Support Me  
+
+<p align="center">  
+  <a href="https://ko-fi.com/whitzscott"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-fi" /> </a>  
+</p>  
